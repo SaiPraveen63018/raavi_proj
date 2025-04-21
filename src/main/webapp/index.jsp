@@ -26,7 +26,7 @@
     <main>
         <section class="hero">
             <div class="hero-content">
-                <h2>Welcome to ShopEasy</h2>
+                <h2>Welcome to AMAZON</h2>
                 <p>Your one-stop destination for all shopping needs</p>
                 <button class="shop-now">Shop Now</button>
             </div>
