@@ -312,7 +312,7 @@ If variables are not created inside the vars section but we have declared inside
 ...
 ```
 
-TO EXECUTE A SINGLE TASK : **<mark> ansible-playbook abc.yml --tags tagname</mark>**
+TO EXECUTE A SINGLE TASK : **<mark>ansible-playbook abc.yml --tags tagname</mark>**
 
 TO EXECUTE A MULTIPLE TASK: **<mark>ansible-playbook abc.yml --tags tagname1,tagname2</mark>**
 
@@ -353,3 +353,5 @@ SYNTAX: [**<mark>token@github.com</mark>**](mailto:token@github.com)**<mark>/use
 ### Conclusion:
 
 Ansible Playbooks are the cornerstone of automation, enabling you to define infrastructure as code in simple, readable YAML. By breaking down tasks into plays, modules, and handlers, playbooks ensure idempotent and repeatable deployments. With features like variables, conditionals, loops, and Jinja2 templating, you can dynamically manage configurations while keeping playbooks clean and maintainable. Whether you're provisioning servers, deploying applications, or orchestrating multi-tier environments, Ansible Playbooks streamline complex workflows with ease. Start with basic tasks, leverage handlers for triggered actions, and gradually adopt roles for scalable automation—soon, you'll be managing your entire infrastructure with efficiency and confidence. Ready to automate? The possibilities are endless!
+
+If my blogs spark your curiosity and support your growth, I’d be [**honored to have you subscribe for more insights. If this article brought you value, your support**](https://hashnode.com/@SaiPraveen63)—only if it’s comfortable for you—would truly mean a lot. Let’s keep the conversation [**going on LinkedIn. Thanks so much for reading**](https://www.linkedin.com/in/donthamsetti-purna-durga-sai-praveen-2670b6260/) 💕💞💕
