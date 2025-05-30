@@ -145,7 +145,7 @@ Ansible Vault is a feature of the Ansible automation tool that is used to secure
 
 For quick, one-off tasks, Ansible ad-hoc commands offer a powerful way to perform actions like installing packages, restarting services, or managing users without writing full playbooks.
 
-Ansible ad hoc commands are CLI commands used for simple and one-time tasks. One-time tasks include checking whether the nodes are reachable over SSH, shutting down all nodes, and so on. They can easily be run at scale and even concurrently on several hosts at the same time with a single command. 
+Ansible ad hoc commands are CLI commands used for simple and one-time tasks. One-time tasks include checking whether the nodes are reachable over SSH, shutting down all nodes, and so on. They can easily be run at scale and even concurrently on several hosts at the same time with a single command.
 
 Ansible ad-hoc commands are quick, one-time instructions you give to Ansible on the command line to perform simple tasks on remote servers. These commands are not part of Ansible's usual automation playbook and are typically used for tasks like running a single command, checking server status, or making minor changes without writing full automation scripts. Ad-hoc commands are handy for immediate, one-off tasks.
 
@@ -169,3 +169,5 @@ Ansible ad-hoc commands are quick, one-time instructions you give to Ansible on 
 ## CONCLUSION:
 
 Mastering advanced Ansible concepts such as modular playbook design, conditional task execution, secure secrets management with Ansible Vault, and efficient use of ad-hoc commands empowers IT professionals to automate complex infrastructure tasks with greater control, security, and scalability. By leveraging these capabilities, you can streamline operations, enhance consistency across environments, and respond swiftly to dynamic infrastructure needs—all while maintaining a high level of security and maintainability in your automation workflows.
+
+If my blogs spark your curiosity and support your growth, I’d be [**honored to have you subscribe for more insights. If this article brought you value, your support**](https://hashnode.com/@SaiPraveen63)—only if it’s comfortable for you—would truly mean a lot. Let’s keep the conversation [**going on LinkedIn. Thanks so much for reading**](https://www.linkedin.com/in/donthamsetti-purna-durga-sai-praveen-2670b6260/) 💕💞💕
